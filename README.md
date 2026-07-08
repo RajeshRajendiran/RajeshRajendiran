@@ -16,7 +16,7 @@ I design and build distributed backend systems — from API design and data pipe
 
 ## 📫 Reach me
 
-- LinkedIn: [https://www.linkedin.com/in/rajeshrajendiran]
+- LinkedIn: https://www.linkedin.com/in/rajeshrajendiran
 - X/Twitter: [@RajChithathur](https://twitter.com/RajChithathur)
 
 ---
