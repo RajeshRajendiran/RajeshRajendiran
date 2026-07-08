@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rajesh 👋
 
-<!--
-**RajeshRajendiran/RajeshRajendiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer · 13+ years building products end-to-end · Go & Java**
 
-Here are some ideas to get you started:
+I design and build distributed backend systems — from API design and data pipelines to cloud infrastructure and production operations. Deep in **Go** for the last 5 years, with a strong **Java / Spring Boot** foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ Certifications
+
+- **AWS Certified Solutions Architect – Professional** (SAP-C02)
+- AWS Certified Solutions Architect – Associate (SAA-C03)
+- AWS Certified Cloud Practitioner (CLF-C02)
+
+## 🛠️ Tech I work with
+
+`Go` `Java` `Spring Boot` `AWS` `Kubernetes` `Docker` `Prometheus` `PostgreSQL` `gRPC` `Kafka`
+
+## 📫 Reach me
+
+- LinkedIn: [https://www.linkedin.com/in/rajeshrajendiran]
+- X/Twitter: [@RajChithathur](https://twitter.com/RajChithathur)
+
+---
+*Interested in cloud-native infrastructure, observability, and AI-powered backend systems.*
