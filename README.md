@@ -21,9 +21,17 @@ Plus: Go RBAC middleware over Keycloak/Okta · FIPS-compliant AWS migrations · 
 
 ## 🌱 Open Source
 
-- **terraform-provider-aws** — merged PRs [#48892](https://github.com/hashicorp/terraform-provider-aws/pull/48892), [#48893](https://github.com/hashicorp/terraform-provider-aws/pull/48893)
-- **Prometheus** — design proposal [#14057](https://github.com/prometheus/prometheus/issues/14057) (staked relabeling)
-- **Currently contributing to security tooling:** Trivy · gitleaks
+**Merged**
+- **terraform-provider-aws** — [#48892](https://github.com/hashicorp/terraform-provider-aws/pull/48892) `ena_queue_count` for launch-template NICs · docs [#49017](https://github.com/hashicorp/terraform-provider-aws/pull/49017), [#49003](https://github.com/hashicorp/terraform-provider-aws/pull/49003)
+- **CloudWeGo Eino** (Go LLM-agent framework) — [#1149](https://github.com/cloudwego/eino/pull/1149): fixed a scheduler race between `time.After(0)` and task completion
+- **postgres_exporter** — [#1349](https://github.com/prometheus-community/postgres_exporter/pull/1349)
+
+**In review — 30+ open PRs across security & infra tooling**
+- **gitleaks** — six secret-detection correctness fixes, e.g. [#2200](https://github.com/gitleaks/gitleaks/pull/2200) (allowlist bypass), [#2229](https://github.com/gitleaks/gitleaks/pull/2229)
+- **Prometheus** — [relabel-drop proposal #90](https://github.com/prometheus/proposals/pull/90) · [MSK discovery panic fix #19194](https://github.com/prometheus/prometheus/pull/19194)
+- also: **Trivy** · **Grype** · **cloudflared** · **Temporal**
+
+[All my PRs →](https://github.com/search?q=author%3ARajeshRajendiran+is%3Apr&type=pullrequests)
 
 ## ☁️ Certifications
 
